@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mod_6
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# To_Do_App
+>>>>>>> cffb08319f80c3e6b1b621d287446310c6d5589f
